@@ -1,0 +1,11 @@
+{
+	"name": "cjs-require",
+	"version": "1.0.0",
+	"type": "commonjs",
+	"exports": {
+		"types": "./index.d.ts",
+		"browser": "./index.browser.js",
+		"import": "./index.mjs",
+		"default": "./index.cjs"
+	}
+}
